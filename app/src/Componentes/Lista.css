@@ -1,0 +1,45 @@
+ul li{
+    text-decoration: none;
+    margin: 15px;
+    color: rgb(82, 82, 35);
+    font-size: 20px;
+    text-decoration-line: none;
+}
+ul{
+
+    text-decoration: none;
+}
+.div-lista{
+    width:100%;
+    height: auto;
+    position: absolute;
+    left: 37%;
+    bottom: 5%;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.btn-eliminar{
+    color: white;
+    background-color:  #153310;
+    border: none;
+    border-radius: 5px;
+    width: 30px;
+    height: 20px;
+
+}
+.bi-person-dash{
+    color: rgb(138, 138, 44);
+}
+@media 
+(min-width: 600px) and
+(max-width : 1200px) {
+    body{
+        background-color:  lightblue;
+    }
+    li{
+        display: block;    
+    }
+}
+
+
+

@@ -1,0 +1,32 @@
+.style-input{
+    text-align: center;
+    background-color: #153310;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 67%;
+    top: 20%;
+    border-radius: 56% 60% 45% 9% / 23% 70% 34% 15%;
+    
+}
+.filtrar-hdos{
+    color: #2dd638;
+    padding-top: 20%;
+    font-size: 20px;
+}
+.input-4{
+    border: none;
+    border-radius: 5px;
+    width: 170px;
+    height: 30px;
+    text-align: center;
+    margin-top: 8%;
+}
+@media 
+(min-width: 600px) and
+(max-width: 1200px) {
+    .style-input{
+        display: inline;  
+    }
+
+}

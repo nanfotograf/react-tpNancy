@@ -1,0 +1,21 @@
+.detalles{
+    display: block;
+    margin-left: 35%;
+    width: 280px;
+    height: 200px;
+    background-color:  #153310;
+    border-radius: 73% 69% 3% 9% / 78% 29% 75% 98%;
+    position: absolute;
+    top: 70%;
+    right: 70%;
+}
+.otros-datos{
+    text-align: center;
+    margin-top: 20px;
+    color: #2dd638;
+    padding-top: 15%;
+}
+p{
+    color: white;
+    padding-top: 5%;
+}

@@ -1,0 +1,40 @@
+.btn-agregar{
+    background-color: rgb(27, 179, 40);
+    margin-left: 15%;
+    width: 250px;
+    height: 10%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+.div-nube{
+    width: 400px;
+    height: 300px;
+    background-color: #153310;
+    border-radius: 80% 6% 3% 9% / 23% 23% 78% 35%;
+    position: absolute;
+    bottom: 35%;
+    left: 5%;
+    
+}
+.input-1, .input-2, .input-3{
+    width: 250px;
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 15%; 
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+}
+.hdos-agregar{
+    padding-top: 10%;
+    text-align: center;
+    color: #2dd638;
+    margin-right: 15px;
+    
+}

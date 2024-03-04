@@ -1,0 +1,23 @@
+.bi-stars{
+    color: rgb(138, 138, 44);
+    font-size: 500px;
+    position: absolute;
+    bottom: 6%;
+}
+
+
+.bi-phone{
+    color: rgb(138, 138, 44);
+    font-size: 400px;
+    position: absolute;
+    left: 60%;
+    bottom: 7%;
+}
+.bi-cloud-fill{
+    color: rgb(138, 138, 44);
+    font-size: 200px;
+    position: absolute;
+    top: 65%;
+    left: 4%;
+
+}

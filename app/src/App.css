@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Madimi One", sans-serif;
+
+}
+body{
+    background-color: #71c276;
+
+}
+
+
+
+p{
+    text-align: center;
+}
+
+.Titulo{
+    color: #214423;
+    margin-top: 60px;
+    text-align: center;
+    font-size: 25px;
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 800;
+}
+
